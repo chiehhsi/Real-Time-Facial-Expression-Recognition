@@ -5,7 +5,9 @@ This projects uses Keras with Tensorflow Backend and OpenCV to develop a Convolu
 Capture of the live video feed from the webcam and processing that video feed was done using OpenCV. Face detection was implemented using the dnn module of OpenCV.
 
 Work Environment: i7 4510U, 8 GB RAM, Geforce 840M 2GB
+
 IDE used: Spyder (Anaconda)
+
 Model trained using Google Colaboratory
 
 # Instructions
